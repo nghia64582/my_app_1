@@ -1,0 +1,26 @@
+.search-bar{
+    font-size: 30;
+    font-family: 'Arial';
+    border-radius: 10px;
+    height: 50px;
+    background-color: #868BD6;
+    resize: none;
+    text-align: left;
+    vertical-align: middle;
+}
+.record-button{
+    font-size: 30;
+    font-family: 'Arial';
+    border-radius: 10px;
+    height: 50px;
+    background-color: #868BD6;
+    resize: none;
+    width: 200px;
+    text-align: center;
+    vertical-align: middle;
+}
+.container {
+    display: flex;
+    flex-direction: column; 
+    width: 80%;
+  }

@@ -9,37 +9,6 @@
 #root{
   text-align: center;
 }
-.calculator-title{
-  font-size: 30px;
-  background: #ffcc0e;
-  width: 300px;
-  padding: 10px 10px;
-  margin: 0 auto;
-  margin-top: 20px;
-  border-radius: 2px;
-  border: 2px solid;
-  color: #0d00ff;
-  font-family: Arial, Helvetica, sans-serif;
-  border-radius: 10px;
-}
-.mainCalc{
-  margin:0px;
-  padding:0px;
-  border-radius: 0px;
-  box-sizing: border-box;
-  border-radius: 20px;
-}
-.screen-row input{
-  width: 300px;
-  background: #222222;
-  border: 0px;
-  color: #ffffff;
-  padding: 10px;
-  text-align: right;
-  border-radius: 20px;
-  margin-top: 2px;
-  margin-bottom: 2px;
-}
 input[type="button"]{
     width: 100px;
     background: #ffffff;

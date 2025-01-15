@@ -1,0 +1,6 @@
+ - Trang chủ chính sẽ có các tab
+   + Login
+   + Home (Có danh sách các chủ đề mà user học)
+   + Thêm từ vựng mới
+   + Làm bài kiểm tra 
+   + Xem profile

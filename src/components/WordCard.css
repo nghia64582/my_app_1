@@ -1,0 +1,19 @@
+.word-card{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.word{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.meaning{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.delete-button{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-image: url('../assets/delete-button.png');
+    /* background-color: #FFFFFF; */
+}

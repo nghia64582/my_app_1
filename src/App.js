@@ -1,17 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
-import Calculator from './components/Calculator'
 import React from 'react';
+import SearchBar from './components/SearchBar';
+import VoiceRecorder from './components/VoiceRecorder'
+import WordCard from './components/WordCard';
+import WordCardPane from './components/WordCardPane';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <Calculator className="Calculator"/>
+        <VoiceRecorder/>
+        <WordCardPane/>
         <a
           className="App-link"
           href="https://reactjs.org"
